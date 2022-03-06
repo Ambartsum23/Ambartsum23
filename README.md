@@ -33,10 +33,8 @@
 </p>
 /////////////////////////////////////////
 <p align = "center">
-<   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansrabon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> >
 
   
-  <br>
   <a href="https://github.com/salmansrabon/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=salmansrabon&theme=react-dark&hide_border=true">
   </a>
