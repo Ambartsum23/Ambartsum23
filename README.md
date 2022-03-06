@@ -35,7 +35,7 @@
 <p align = "center">
 
   
-  <a href="https://github.com/Ambartsum23/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=salmansrabon&theme=react-dark&hide_border=true">
+  <a href="https://github.com/salmansrabon/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Ambartsum23&theme=react-dark&hide_border=true">
   </a>
 </p>
