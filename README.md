@@ -14,12 +14,11 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/48891202/135020000-067afc86-f3e9-48ad-b9a3-2c234fa0eb9f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/48891202/135020058-88e277f2-36a5-4ff7-a1ee-8ef37e2c6c58.png"></code>
  
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambartsum23&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> 
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambartsum23&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Ambartsum23&show_icons=true&theme=radical"></a>
   
