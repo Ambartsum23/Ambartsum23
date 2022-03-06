@@ -28,7 +28,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Ambartsum23&theme=react&background=0d1117&border=666">
   </a>
     <br>
-  <a href="https://github.com/salmansrabon/github-readme-activity-graph">
+  <a href="https://github.com/Ambartsum23/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Ambartsum23&theme=react-dark&hide_border=true">
   </a>
  
