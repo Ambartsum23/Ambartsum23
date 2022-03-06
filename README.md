@@ -19,15 +19,11 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/48891202/135020058-88e277f2-36a5-4ff7-a1ee-8ef37e2c6c58.png"></code>
  
 <p align = "center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambartsum23&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> -->
+< <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambartsum23&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> >
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Ambartsum23&show_icons=true&theme=radical"></a>
   
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ambartsum23&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-  
-  
-
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ambartsum23&theme=react&background=0d1117&border=666"></a>
   
     <br>
   <a href="https://github.com/Ambartsum23/github-readme-activity-graph">
