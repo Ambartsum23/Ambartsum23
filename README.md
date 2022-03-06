@@ -34,11 +34,7 @@
 /////////////////////////////////////////
 <p align = "center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansrabon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=salmansrabon&show_icons=true&theme=radical"></a>
-  
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=salmansrabon&theme=react&background=0d1117&border=666"></a>
+
   
   <br>
   <a href="https://github.com/salmansrabon/github-readme-activity-graph">
