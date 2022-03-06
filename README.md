@@ -33,7 +33,7 @@
 </p>
 /////////////////////////////////////////
 <p align = "center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansrabon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> -->
+<   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansrabon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> >
 
   
   <br>
