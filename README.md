@@ -23,8 +23,11 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Ambartsum23&show_icons=true&theme=radical"></a>
   
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Ambartsum23&theme=react&background=0d1117&border=666"></a>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ambartsum23&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+  
+  
+
   
     <br>
   <a href="https://github.com/Ambartsum23/github-readme-activity-graph">
